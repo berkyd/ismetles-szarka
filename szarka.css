@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+    color:darkblue;
+}
+h1,h2,h3,h4,h5{
+    color:crimson;
+}
+hr{
+    width:70%;
+}
+.szarkatable{
+    width:400px;
+}
+.besorolastable{
+    width:500px;
+    border:none;
+    margin: auto;
+
+}
+.besorolastable th {
+    text-align: center;
+    font-weight: normal;
+}
+.kozepso{
+    justify-content: center;
+}
